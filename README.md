@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on an Agricultural application 
 - 🌱 I’m currently learning  Dart and Flutter
 - 👯 I’m looking to collaborate on Machine Learning 
-- 💬 Ask me about the mon and its cycles.
+- 💬 Ask me about the moon and its cycles.
 
 ## 🛠 Skills
 Python, HTML, CSS , JavaScript
