@@ -1,8 +1,10 @@
 ## Hi there 👋
 
 
-
-
+## 🔗 Links
+[![portfolio]
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kimani-lyn)
+[![twitter]
 - 🔭 I’m currently working on an Agricultural application 
 - 🌱 I’m currently learning  Python 
 - 👯 I’m looking to collaborate on Machine Learning 
