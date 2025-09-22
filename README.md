@@ -10,7 +10,7 @@ Python, HTML, CSS , JavaScript
 ## 🔗 Links
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20there!%20👋%20I'm%20Aurelia&fontSize=40&fontAlignY=35&desc=Software%20Engineer%20|%20Electronics%20Engineer%20|%20IoT%20Enthusiast&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20there!%20👋%20I'm%20Lee Kimani&fontSize=40&fontAlignY=35&desc=Software%20Engineer%20|%20Unity%20Enthusiast%20|%20IoT%20Enthusiast&descAlignY=55&descAlign=50" />
 </p>
 
 ---
@@ -75,7 +75,7 @@ My passion lies in **writing and debugging code**, transforming complex problems
   <a href="https://www.linkedin.com/in/aurelia-bett/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:cbettaurelia@gmail.com">
+  <a href="mailto:lee.kimani.w@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://YOUR_PORTFOLIO_URL/" target="_blank">
